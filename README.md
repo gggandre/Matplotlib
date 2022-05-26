@@ -3,7 +3,7 @@
 <b> La librería Matplotlib </b>
 Matplotlib es una librería de Python especializada en la creación de gráficos en dos dimensiones.
 
-<img src="sunnyland.png" alt="My cool logo"/>
+<img src="matplotlib-logo.png" alt="My cool logo"/>
 
 Gráfico con matplotlib
 
