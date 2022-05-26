@@ -21,3 +21,5 @@ Permite crear y personalizar los tipos de gráficos más comunes, entre ellos:
 - Mapas de color y combinaciones de todos ellos.
 
 En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería.
+
+Referencias: https://aprendeconalf.es/docencia/python/manual/matplotlib/
